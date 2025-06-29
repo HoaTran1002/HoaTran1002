@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a freelancer with a strong focus on full-stack development, IoT systems, and scalable backend infrastructure.  
+I'm fullstack Developer, focus on full-stack development, IoT systems, and scalable backend infrastructure.  
 Passionate about building real-time applications, optimizing developer experience, and creating efficient, production-ready systems.
 
 ## 🌐 Socials:
